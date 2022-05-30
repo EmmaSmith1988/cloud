@@ -10,7 +10,7 @@ public class Controller {
 
     @GetMapping("/message")
     public String getMessage(){
-        return "hello and welcome to the cloud";
+        return "hello, is this new code working?";
     }
 
 //    @PostMapping("/message")
